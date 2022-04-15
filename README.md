@@ -6,7 +6,7 @@ Send Email Verification With OTP (One Time Password) Menggunakan Laravel
 You can fork or clone this project
 
 ``` 
-git clone https://github.com/Fadhila36/laravel-8-send-email-OTP.git
+git clone https://github.com/Scuti-Project/laravel-send-email-OTP.git
 cd laravel-8-send-email-OTP
 composer install
 cp .env.example .env <-- edit db config
